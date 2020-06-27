@@ -7,7 +7,7 @@ package RASTGELEKISIURET;
 
 /**
  *
- * @author Melike Göncü, Başak Bakar
+ * @author Melike Göncü
  */
 public class Donusumler {
     public int[] StringToArrayInt(String str)
