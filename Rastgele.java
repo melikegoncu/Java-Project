@@ -7,7 +7,7 @@ package RASTGELEKISIURET;
 import java.lang.System;
 /**
  *
- * @author Melike Göncü, Başak Bakar
+ * @author Melike Göncü
  */
 public class Rastgele {
     protected int uretimRastgeleRakam(int a){//modunun alınması istenene sayı girilir
