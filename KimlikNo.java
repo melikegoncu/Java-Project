@@ -7,7 +7,7 @@ package RASTGELEKISIURET;
 
 /**
  *
- * @author Melike Göncü, Başak Bakar
+ * @author Melike Göncü
  */
 public class KimlikNo {
     private final int TCdigit=11;//sabit digit hanesi sayısı
