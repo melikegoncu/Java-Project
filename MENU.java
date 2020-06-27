@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.util.Scanner;
 /**
  *
- * @author Melike Göncü, Başak Bakar
+ * @author Melike Göncü
  */
 public class MENU {
 
