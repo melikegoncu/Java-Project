@@ -7,7 +7,7 @@ package RASTGELEKISIURET;
 
 /**
  *
- * @author Melike Göncü, Başak Bakar
+ * @author Melike Göncü
  */
 public class Telefon {
     private final int telDigit=12;//sabit digit hanesi sayısı
