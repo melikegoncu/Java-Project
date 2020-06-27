@@ -13,7 +13,7 @@ import java.io.IOException;
 
 /**
  *
- * @author Melike Göncü, Başak Bakar
+ * @author Melike Göncü
  */
 
 public class Kisi {
