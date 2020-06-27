@@ -7,7 +7,7 @@ package RASTGELEKISIURET;
 
 /**
  *
- * @author Melike Göncü, Başak Bakar
+ * @author Melike Göncü
  */
 public class IMEINo {
     private final int IMEIDigit=15;//sabit imei digit sayısı
